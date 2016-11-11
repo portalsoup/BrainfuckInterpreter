@@ -15,9 +15,10 @@ public class Interpreter {
     }
 
     /**
-     * Process brianfuck source code and interpret it live.
+     * Process brianfuck source code and interpret it live.  Each character is interpretted and operated on
+     * one by one until the end of the array is reached.
      *
-     * @param srcProgram The character arra containing the
+     * @param srcProgram The character array containing the source code
      */
     public void run(char[] srcProgram) {
 
