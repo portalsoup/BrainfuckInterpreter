@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BrainfuckCompiler.iml" filepath="$PROJECT_DIR$/BrainfuckCompiler.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BrainfuckInterpreter.iml" filepath="$PROJECT_DIR$/BrainfuckInterpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BrainfuckInterpreter.iml" filepath="$PROJECT_DIR$/.idea/modules/BrainfuckInterpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BrainfuckInterpreter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BrainfuckInterpreter_main.iml" group="BrainfuckInterpreter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BrainfuckInterpreter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BrainfuckInterpreter_test.iml" group="BrainfuckInterpreter" />
     </modules>
   </component>
 </project>

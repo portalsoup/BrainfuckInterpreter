@@ -18,5 +18,11 @@
         <processorPath useClasspath="true" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BrainfuckCompiler_main" target="1.5" />
+      <module name="BrainfuckCompiler_test" target="1.5" />
+      <module name="BrainfuckInterpreter_main" target="1.5" />
+      <module name="BrainfuckInterpreter_test" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
