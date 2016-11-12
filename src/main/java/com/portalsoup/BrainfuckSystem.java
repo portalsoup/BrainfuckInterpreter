@@ -1,7 +1,7 @@
 package com.portalsoup;
 
 /**
- * The brains of the interpreter.
+ * Storage for the interpreter with necessary operations to manipulate per program source code.
  *
  * Created by julian on 11/11/2016.
  */

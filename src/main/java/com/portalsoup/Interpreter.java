@@ -3,6 +3,8 @@ package com.portalsoup;
 import java.util.Scanner;
 
 /**
+ * The class that parses brainfuck source code and translates instructions into the BrainfuckSystem.
+ *
  * Created by julian on 11/11/2016.
  */
 public class Interpreter {
